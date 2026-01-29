@@ -1,0 +1,5 @@
+body{font-family:Arial,Helvetica,sans-serif;max-width:1000px;margin:0 auto;padding:1rem}
+header{display:flex;justify-content:space-between;align-items:center}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1rem}
+.card{border:1px solid #ddd;padding:0.75rem;border-radius:6px}
+button{background:#0073bb;color:#fff;border:none;padding:0.5rem 0.75rem;border-radius:4px;cursor:pointer}
